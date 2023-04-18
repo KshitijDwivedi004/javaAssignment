@@ -17,5 +17,6 @@ public class keypad {
     public static void main(String[] args) {
         String x = "12";
         printcombi(x, 0, "");
+        System.out.println("hii");
     }
 }
